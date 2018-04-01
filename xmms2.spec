@@ -93,7 +93,7 @@ BuildRequires:	pkgconfig(wavpack)
 BuildRequires:	pkgconfig(libpulse)
 BuildRequires:	pkgconfig(python-2.7)
 BuildRequires:	python-pyrex >= 0.9.3
-BuildRequires:	pkgconfig(ruby)
+BuildRequires:	pkgconfig(ruby) >= 2.2.4
 BuildRequires:	pkgconfig(SDL_ttf)
 BuildRequires:	pkgconfig(libsidplay2)
 BuildRequires:	pkgconfig(speex)
